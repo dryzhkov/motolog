@@ -51,7 +51,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Motorcycle travel and adventure by <strong>{author}</strong>.
+        Motorcycle travel and adventure recaps by <strong>{author}</strong>.
       </p>
     </div>
   )
