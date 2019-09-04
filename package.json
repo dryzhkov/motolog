@@ -1,7 +1,7 @@
 {
-  "name": "motorcycle-adventure-riding-blog",
+  "name": "motolog",
   "private": true,
-  "description": "My personal blog to document motorcycle trips",
+  "description": "My personal blog to recap motorcycle trips",
   "version": "0.1.0",
   "author": "Dmitry Ryzhkov <dimaryz@gmail.com>",
   "dependencies": {
@@ -35,7 +35,7 @@
   "devDependencies": {
     "prettier": "^1.18.2"
   },
-  "homepage": "",
+  "homepage": "https://motolog.net",
   "keywords": [
     "motorcycle",
     "travel",

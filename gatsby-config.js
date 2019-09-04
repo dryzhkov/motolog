@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Ride and Explore`,
+    title: `Motolog`,
     author: `Dmitry Ryzhkov`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `My personal motorcycle trips, plans and recaps`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `dryzhk0v`,
     },
   },
   plugins: [
