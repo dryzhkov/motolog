@@ -4,9 +4,6 @@ module.exports = {
     author: `Dmitry Ryzhkov`,
     description: `My personal motorcycle trips, plans and recaps`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
-    social: {
-      twitter: `dryzhk0v`,
-    },
   },
   plugins: [
     {
