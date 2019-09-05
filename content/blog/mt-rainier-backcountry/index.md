@@ -1,7 +1,7 @@
 ---
-title: Mt. Rainer Backcountry
+title: Mt. Rainier Backcountry
 date: "2019-08-24"
-description: "A day trip in Mt. Rainer National Park"
+description: "A day trip in Mt. Rainier National Park"
 ---
 
 Took a day trip to Mt. Rainier National Park more specifically Naches Pass on hwy 410.
