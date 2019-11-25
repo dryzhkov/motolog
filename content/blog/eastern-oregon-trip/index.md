@@ -12,7 +12,7 @@ The roads through the Mt. Rainier National Park and Glifford Pinchot National Fo
 
 ![Pinchot National Forest](./pinchot.jpg)
 
-Later in the afternoon I got to Columbia river on the border between Washington and Oregon. The views were truly astonishing. From there I headed East and then South to Grass Valley, OR where I spent the first night.
+Later in the afternoon I got to Columbia river on the border between Washington and Oregon. The views were truly astonishing. From there I headed east and then south to Grass Valley, OR where I spent the first night.
 
 ![Columbia River Views](./columbia_river01.jpg)
 ![Columbia River Views](./columbia_river02.jpg)
@@ -24,7 +24,7 @@ Grass Valley is a tiny town with a population around 150 people. It's located 12
 ![Grass Valley](./grass_valley.jpg)
 ![Grass Valley](./grass_valley02.jpg)
 
-The next day was definitely the highlight of the whole trip. The riding in that area is amazing, roads were clear and twisty, traffic was close to none. It probably helped that I was there on week days. The road from Grass Valley to Tygh Valley was outstanding with plenty of spots to pull over and enjoy the scenery.
+The next day was definitely the highlight of the whole trip. The riding in that area is amazing, roads were clear and twisty, traffic was close to none. It probably helped that I was there on a week day. The road from Grass Valley to Tygh Valley was outstanding with plenty of spots to pull over and enjoy the scenery.
 
 But the part that really stood out was a Shaniko - Antelope - Fossil ride. Even if I went straight back home right after; it'd be worth it!
 ![Shaniko-Antelope-Fossil](./day2_01.jpg)
@@ -35,6 +35,6 @@ But the part that really stood out was a Shaniko - Antelope - Fossil ride. Even 
 ![Shaniko-Antelope-Fossil](./day2_06.jpg)
 ![Shaniko-Antelope-Fossil](./day2_07.jpg)
 
-I crossed back up to Washington before spending the night in Kennewick, the next day was a long ride back home through the mostly familiar areas :)
+I crossed back up to Washington before spending the night in Kennewick. Next day was a long ride back home through the mostly familiar areas :)
 I did get a good shot of Columbia river again before turning west on hwy2.
 ![Columbia River Day 3](./columbia_river_day3.jpg)
