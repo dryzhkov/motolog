@@ -6,7 +6,7 @@ description: "Camping trip to Curlew Lake north of Republic, WA"
 
 In August, I went on a short 2-day road trip around Eastern Washington. Lots of on and oof road rides with gorgeous views.
 
-<a class="carouselLink" onClick={window.displayCarousel()}>![Route](./route.png)</a>
+<a class="carousel-link" onClick={window.displayCarousel()}>![Route](./route.png)</a>
 
 Took hwy 20 East which is famous in Washington for its views and twisties.
 

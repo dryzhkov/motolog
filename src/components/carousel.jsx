@@ -20,13 +20,16 @@ export const Carousel = () => {
 
   return isVisible ? (
     <div className="overlay">
-      <a class="closebtn" onClick={handleCloseClicked}>
+      <a className="closebtn" onClick={handleCloseClicked}>
         &times;
       </a>
-      <div class="overlay-content">
+      <div className="overlay-content">
         <img src="/static/ded793c48bfdce5f14ead3c5e33c2a7c/0741c/river.jpg" />
-        <div class="carousel-arrow left-arrow">&#10148;</div>
-        <div class="carousel-arrow">&#10148;</div>
+        <div className="controls">
+          <span className="carousel-arrow left-arrow">&#9656;</span>
+          <span className="carousel-arrow">&#9656;</span>
+          <span className="carousel-arrow">&#9679;&#9679;&#9679;</span>
+        </div>
       </div>
     </div>
   ) : null
