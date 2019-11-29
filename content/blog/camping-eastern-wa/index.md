@@ -11,20 +11,20 @@ In August, I went on a short 2-day road trip around Eastern Washington. Lots of 
 Took hwy 20 East which is famous in Washington for its views and twisties.
 
 A river along hwy 20 near Rockport, WA
-![a river in North Cascades](./river.jpg)
+<a class="carousel-link" onClick={window.displayCarousel()}>![a river in North Cascades](./river.jpg)</a>
 
 View of Diablo Lake from a vista point near by
-![diablo lake](./diablo-lake.jpg)
+<a class="carousel-link" onClick={window.displayCarousel()}>![diablo lake](./diablo-lake.jpg)</a>
 
 Mountains! What else can you say?
-![hwy 20](./hwy_20.jpg)
+<a class="carousel-link" onClick={window.displayCarousel()}>![hwy 20](./hwy_20.jpg)</a>
 
 My camping spot on lake Curlew
-![camping spot](./camping.jpg)
+<a class="carousel-link" onClick={window.displayCarousel()}>![camping spot](./camping.jpg)</a>
 
 Day 2 was full of twisted roads and mountain passes :)
-![day 2](./day_2.jpg)
-![da 2](./day_2-1.jpg)
-![columbia river](./columbia_river.jpg)
-![columbia river](./columbia_river_2.jpg)
-![grand coulee dam](./grand_coulee_dam.jpg)
+<a class="carousel-link" onClick={window.displayCarousel()}>![day 2](./day_2.jpg)</a>
+<a class="carousel-link" onClick={window.displayCarousel()}>![da 2](./day_2-1.jpg)</a>
+<a class="carousel-link" onClick={window.displayCarousel()}>![columbia river](./columbia_river.jpg)</a>
+<a class="carousel-link" onClick={window.displayCarousel()}>![columbia river](./columbia_river_2.jpg)</a>
+<a class="carousel-link" onClick={window.displayCarousel()}>![grand coulee dam](./grand_coulee_dam.jpg)</a>

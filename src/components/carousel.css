@@ -2,13 +2,15 @@
   cursor: pointer;
 }
 
-.carousel-arrow {
+.carousel-dot {
   font-size: 30px;
   color: #818181;
 }
-.left-arrow {
-  transform: rotate(180deg);
+
+.dots {
+  margin-top: 50px;
 }
+
 .overlay {
   height: 100%;
   width: 100%;
@@ -21,15 +23,40 @@
   overflow-x: hidden;
 }
 
+.closebtn {
+  position: absolute;
+  top: 20px;
+  right: 50px;
+  font-size: 60px;
+  color: #818181;
+  cursor: pointer;
+  box-shadow: none;
+}
+
 .overlay-content {
-  display: block;
-  position: relative;
-  top: 10%;
-  width: 80%;
+  width: 100%;
+  max-width: 980px;
   text-align: center;
   margin: auto;
 }
-
+.carousel-arrow {
+  display: block;
+  font-size: 65px;
+  color: #818181;
+  cursor: pointer;
+  position: absolute;
+  top: -webkit-calc(50% - 30px);
+  top: -moz-calc(50% - 30px);
+  top: -ms-calc(50% - 30px);
+  top: calc(50% - 30px);
+}
+.case-left {
+  transform: rotate(180deg);
+  left: 50px;
+}
+.case-right {
+  right: 50px;
+}
 .overlay-content img {
   margin: auto;
   position: fixed;
@@ -42,39 +69,10 @@
   max-width: 80%;
 }
 
-.overlay-content .controls {
-  position: fixed;
-  bottom: 0;
-  right: 50%;
+.disabled-btn {
+  display: none;
 }
 
-.overlay a {
-  padding: 8px;
-  text-decoration: none;
-  font-size: 36px;
-  color: #818181;
-  display: block;
-}
-
-.overlay a:hover,
-.overlay a:focus {
-  color: #f1f1f1;
-}
-
-.overlay .closebtn {
-  position: absolute;
-  top: 20px;
-  right: 45px;
-  font-size: 60px;
-}
-
-@media screen and (max-height: 450px) {
-  .overlay a {
-    font-size: 20px;
-  }
-  .overlay .closebtn {
-    font-size: 40px;
-    top: 15px;
-    right: 35px;
-  }
+.selected-dot {
+  color: #007acc;
 }
