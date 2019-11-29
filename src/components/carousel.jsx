@@ -1,9 +1,8 @@
 import React, { useState, useEffect } from "react"
 import "./carousel.css"
+
+let images = []
 export const Carousel = () => {
-  const images = Array.from(
-    document && document.getElementsByClassName("gatsby-resp-image-image")
-  ).map(el => el.src)
   const [isVisible, setVisible] = useState(false)
   const [currentIndex, setCurrentIndex] = useState(0)
 
@@ -22,6 +21,10 @@ export const Carousel = () => {
   }
 
   useEffect(() => {
+    images = Array.from(
+      document.getElementsByClassName("gatsby-resp-image-image")
+    ).map(el => el.src)
+
     window.displayCarousel = () => {
       setVisible(true)
     }
@@ -49,6 +52,7 @@ export const Carousel = () => {
     return images.map((el, index) => {
       return (
         <span
+          key={index}
           className={
             index === currentIndex
               ? "carousel-dot selected-dot"
