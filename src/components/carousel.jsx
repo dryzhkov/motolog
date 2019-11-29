@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react"
 import "./carousel.css"
 export const Carousel = () => {
   const images = Array.from(
-    document.getElementsByClassName("gatsby-resp-image-image")
+    document && document.getElementsByClassName("gatsby-resp-image-image")
   ).map(el => el.src)
   const [isVisible, setVisible] = useState(false)
   const [currentIndex, setCurrentIndex] = useState(0)
