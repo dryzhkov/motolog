@@ -6,7 +6,7 @@
   "author": "Dmitry Ryzhkov <dimaryz@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
-    "gatsby": "^2.15.5",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.2.16",
     "gatsby-plugin-feed": "^2.3.11",
     "gatsby-plugin-google-analytics": "^2.1.13",
